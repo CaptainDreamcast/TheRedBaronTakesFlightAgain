@@ -1,0 +1,4 @@
+OBJS = main.o \
+gamescreen.o \
+storyscreen.o \
+creditsscreen.o

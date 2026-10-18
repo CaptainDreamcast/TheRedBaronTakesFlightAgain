@@ -1,0 +1,28 @@
+[Header]
+Sprites = game/OUTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+anim = 1
+
+[Text 1]
+Speaker = " "
+Text = "The alien forces were led by your arch-nemesis, the blue peasant, who, as you know, is someone you really don't like irl."
+
+[Image 1]
+anim = 2
+
+[Text 1]
+Speaker = " "
+Text = "After you came home, everyone started loving old tech again, which was convenient because data centers bought all the new planes as well to increase shareholder value."
+
+[Image 1]
+anim = 3
+
+[Text 1]
+Speaker = " "
+Text = "And you flew happily ever after and weren't shot down with a machine gun bleeding out in a field. The end, thanks for playing! Your amazing speedrun time: "
+
+; [Credits]
+[Story]

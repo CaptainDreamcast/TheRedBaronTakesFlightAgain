@@ -1,0 +1,34 @@
+[Header]
+Sprites = game/INTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+anim = 1
+
+[Text 1]
+Speaker = " "
+Text = " "
+
+[Image 1]
+anim = 2
+
+[Text 1]
+Speaker = " "
+Text = "As you know, irl in real life, you are the highest scoring fighter pilot of world war 1, colloquially known as the red baron."
+
+[Image 1]
+anim = 3
+
+[Text 1]
+Speaker = " "
+Text = "You love your iconic little red plane, the Fokker Dr. I, more than modern F-22s or F-14, mostly because it is red like you, but also because you think it's cooler."
+
+[Image 1]
+anim = 4
+
+[Text 1]
+Speaker = " "
+Text = "So when aliens attack the planet earth, the red planet as it is colloquially called, you jump into your plane to take them on as... THE RED BARON TAKES FLIGHT AGAIN!"
+
+[Game]
